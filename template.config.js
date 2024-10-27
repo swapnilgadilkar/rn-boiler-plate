@@ -1,5 +1,11 @@
-// template.config.js
 module.exports = {
-  placeholderName: 'ProjectName', // Default placeholder for the project name
-  templateDir: './template', // Path to the template directory
+  // Placeholder used to rename and replace in files
+  // package.json, index.json, android/, ios/
+  placeholderName: 'ProjectName',
+
+  // Directory with template
+  templateDir: './template',
+
+  // Path to script, which will be executed after init
+  postInitScript: './script.js',
 };
