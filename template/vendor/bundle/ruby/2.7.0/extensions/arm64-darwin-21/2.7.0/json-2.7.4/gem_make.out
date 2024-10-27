@@ -1,0 +1,22 @@
+current directory: /Users/swapnilgadilkar/Documents/Swapnil_Workspace/ProjectName/vendor/bundle/ruby/2.7.0/gems/json-2.7.4/ext/json/ext/parser
+/Users/swapnilgadilkar/.rbenv/versions/2.7.5/bin/ruby extconf.rb
+checking for rb_enc_raise() in ruby.h... yes
+checking for rb_enc_interned_str() in ruby.h... no
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/swapnilgadilkar/Documents/Swapnil_Workspace/ProjectName/vendor/bundle/ruby/2.7.0/gems/json-2.7.4/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241027-52629-1447a49 sitelibdir\=./.gem.20241027-52629-1447a49 clean
+
+current directory: /Users/swapnilgadilkar/Documents/Swapnil_Workspace/ProjectName/vendor/bundle/ruby/2.7.0/gems/json-2.7.4/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241027-52629-1447a49 sitelibdir\=./.gem.20241027-52629-1447a49
+compiling parser.c
+linking shared-object json/ext/parser.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/swapnilgadilkar/Documents/Swapnil_Workspace/ProjectName/vendor/bundle/ruby/2.7.0/gems/json-2.7.4/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241027-52629-1447a49 sitelibdir\=./.gem.20241027-52629-1447a49 install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20241027-52629-1447a49/json/ext
+
+current directory: /Users/swapnilgadilkar/Documents/Swapnil_Workspace/ProjectName/vendor/bundle/ruby/2.7.0/gems/json-2.7.4/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20241027-52629-1447a49 sitelibdir\=./.gem.20241027-52629-1447a49 clean
