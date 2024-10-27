@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "description": "Custom template for __ProjectName__",
-  "author": "__AuthorName__"
+  "author": "__AuthorName__",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
