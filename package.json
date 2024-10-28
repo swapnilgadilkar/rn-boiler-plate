@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swapnilgadilkar/rn-boiler-plate/issues"
   },
-  "homepage": "https://github.com/swapnilgadilkar/rn-boiler-plate#readme"
+  "homepage": "https://github.com/swapnilgadilkar/rn-boiler-plate#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.0.1"
+  }
 }
